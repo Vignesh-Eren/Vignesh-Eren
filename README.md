@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋 I'm Vignesh<br><br>🎓 Completed my master's in computer applications.<br>💻 Currently working on algorithmic trading bots.<br>🤖 Learning machine learning.<br><br>Connect with me on LinkedIn to discuss more...</h2>
+<h2 align="left">Hi👋 I'm Vignesh<br><br>🎓 Completed my master's in computer applications.<br>💻 Currently working on stock screeners project.<br>🤖 Learning machine learning.<br><br>Connect with me on LinkedIn to discuss more...</h2>
 
 ###
 
