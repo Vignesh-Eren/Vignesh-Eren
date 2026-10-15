@@ -1,53 +1,52 @@
-<h2 align="left">Hi👋 I'm Vignesh<br><br>🎓 Completed my master's in computer applications.<br>💻 Currently working on stock screeners project.<br>🤖 Learning machine learning.<br><br>Connect with me on LinkedIn to discuss more...</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="assets/banner-dark.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
+  <img src="assets/banner-light.gif" width="100%" alt="Vignesh N, Quantitative Research Analyst: python, backtesting, market data, dashboards. A decorative candlestick chart with a smooth trend line draws in from the left.">
+</picture>
 
-###
+### Python for market research, backtesting and trading analytics
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-</div>
+I build the tools quantitative research runs on: backtesting frameworks, real-time market-data dashboards, and the data infrastructure underneath them, with a focus on data quality, testing and reliable systems.
 
-###
+**[LinkedIn](https://www.linkedin.com/in/vignesh-n-business)** · **[Email](mailto:iamvignesh.work@gmail.com)** · Tamil Nadu, India
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/vignesh-n-business/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:iamvignesh.work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://discordapp.com/users/685384222940200960" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+---
 
-###
+## What I work on
 
-<br clear="both">
+- **Systematic research and backtesting.** Backtesting and simulated (paper) trade testing of strategies across US equities, options, futures and futures options.
+- **Real-time market data and dashboards.** Python trading dashboards (Dash, PyQt6) on live US market data, with Redis for fast shared state.
+- **Data and cloud infrastructure.** Cloud databases and Linux environments on Azure, with experience on AWS and GCP.
+- **Machine learning, as a supporting tool.** Classification, clustering and time-series models with scikit-learn, PyTorch and TensorFlow.
+
+## Experience
+
+**Quantitative Research Analyst** · Maxrey Tech Limited · Mar 2026 – present · Remote<br>Trading dashboards and analytical tools (Python, PyQt6, Dash, Redis, Azure); backtesting and simulated trade testing of US-market strategies; Azure cloud databases and Linux.
+
+**Quantitative Research Analyst** · Fiedge Capital · Apr 2025 – Feb 2026 · Remote<br>Python trading dashboards on real-time US market data (Charles Schwab API); backtesting frameworks across equities, options, futures and futures options; analytics and performance-reporting tools.
+
+**Python Developer (training)** · Elysium Group · Mar 2024 – Apr 2025<br>Flask and Streamlit applications combining ML, encryption, blockchain storage and PySpark processing.
+
+**Business Analyst Intern** · Beleaf Technologies · Jun – Nov 2023<br>Planning for blockchain and crypto-trading projects; Power BI and Google Analytics.
+
+## Toolkit
+
+- **Core:** Python · Pandas · NumPy · SQL · Redis · Linux · Git
+- **Dashboards and apps:** Dash · PyQt6 · Streamlit · Flask · FastAPI
+- **Machine learning:** scikit-learn · PyTorch · TensorFlow · Keras · PySpark
+- **Data and cloud:** PostgreSQL · MySQL · MongoDB · SQLite · Azure · AWS (EC2, S3) · GCP
+
+## Public projects
+
+Earlier work from my studies and internship:
+
+- **[Share-Market-Website](https://github.com/Vignesh-Eren/Share-Market-Website)** — a PHP/MySQL stock-market learning site: a page for each NIFTY 50 company, charts, a portfolio tracker (stocks, mutual funds, currencies, commodities) and lessons on fundamental and technical analysis.
+- **[Data-Analytics-Internship](https://github.com/Vignesh-Eren/Data-Analytics-Internship)** — data cleaning and summary statistics in Python notebooks, and a Tata Motors price dashboard in Power BI.
+
+## Education and certifications
+
+- MCA, University of Madras (2021–2023)
+- BSc Information Technology, The American College, Madurai (2018–2021)
+- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/ZXQMJSDZUYR4) — Stanford University / Coursera
+- [Business Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/KEXF2XGSYME6) — University of Pennsylvania / Coursera
