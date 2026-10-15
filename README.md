@@ -1,8 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="assets/header-dark-46b60bd.png">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-light-6588557.png">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark-34b6dc2.gif">
-  <img src="assets/header-light-90f90fa.gif" width="100%" alt="Vignesh N, Quantitative Research Analyst: python, backtesting, market data, dashboards">
+  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="assets/header-dark-a55a277.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-light-63bee2a.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark-789d5f8.gif">
+  <img src="assets/header-light-d1fbeda.gif" width="100%" alt="Vignesh N, Quantitative Research Analyst: python, backtesting, market data, dashboards">
 </picture>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ## Projects
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-turbine-dark-9ea2340.gif"><img src="assets/card-turbine-light-0221b40.gif" width="49%" alt="Wind Turbine Health: fault detection and remaining-useful-life prediction with CNN, LSTM and SHAP. Code private."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-turbine-dark-f5b2927.gif"><img src="assets/card-turbine-light-7650160.gif" width="49%" alt="Wind Turbine Health: fault detection and remaining-useful-life prediction with CNN, LSTM and SHAP. Code private."></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-crypto-dark-d0c65d2.gif"><img src="assets/card-crypto-light-f51880b.gif" width="49%" alt="Crypto Trading Bot: automated BTC/ETH strategies on the Binance API, running 24/7 with trade logs. Code private."></picture>
 </p>
 <p align="center">
