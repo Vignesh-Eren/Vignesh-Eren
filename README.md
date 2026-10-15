@@ -21,9 +21,9 @@
 </p>
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-lstm-dark.gif"><img src="assets/card-lstm-light.gif" width="49%" alt="LSTM Price Forecaster: deep-learning experiment forecasting stock closing prices with Keras and TensorFlow. Code private."></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-stockweb-dark.gif"><img src="assets/card-stockweb-light.gif" width="49%" alt="Stock Market Website: NIFTY 50 stock pages, a portfolio tracker and market-analysis lessons in PHP and MySQL. Public repo."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-dashboard-dark.gif"><img src="assets/card-dashboard-light.gif" width="49%" alt="Stock Trading Dashboard: real-time NSE prices, live charts, stock scanners and paper trading, built with Python, WebSocket streaming and Redis. Code private."></picture>
 </p>
-<p align="center"><sub>🔒 Code kept private, happy to walk through any of them · the Stock Market Website is <a href="https://github.com/Vignesh-Eren/Share-Market-Website">public here</a></sub></p>
+<p align="center"><sub>🔒 Code kept private. Happy to walk through any of them.</sub></p>
 
 ## Tech
 
