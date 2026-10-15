@@ -2,51 +2,58 @@
   <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="assets/banner-dark.png">
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-light.png">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
-  <img src="assets/banner-light.gif" width="100%" alt="Vignesh N, Quantitative Research Analyst: python, backtesting, market data, dashboards. A decorative candlestick chart with a smooth trend line draws in from the left.">
+  <img src="assets/banner-light.gif" width="100%" alt="Vignesh N, Quantitative Research Analyst: python, backtesting, market data, dashboards">
 </picture>
 
-### Python for market research, backtesting and trading analytics
+<p align="center">
+  <a href="https://www.linkedin.com/in/vignesh-n-business"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:iamvignesh.work@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Tamil_Nadu,_India-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Tamil Nadu, India">
+</p>
 
-I build the tools quantitative research runs on: backtesting frameworks, real-time market-data dashboards, and the data infrastructure underneath them, with a focus on data quality, testing and reliable systems.
+<p align="center">I build backtests, trading dashboards and market-data tools in Python.</p>
 
-**[LinkedIn](https://www.linkedin.com/in/vignesh-n-business)** · **[Email](mailto:iamvignesh.work@gmail.com)** · Tamil Nadu, India
+## Projects
 
----
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-turbine-dark.gif"><img src="assets/card-turbine-light.gif" width="49%" alt="Wind Turbine Health: fault detection and remaining-useful-life prediction with CNN, LSTM and SHAP. Code private."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-tradingbot-dark.gif"><img src="assets/card-tradingbot-light.gif" width="49%" alt="Crypto Trading Bot: automated BTC/ETH strategies on the Binance API, running 24/7 with trade logs. Code private."></picture>
+</p>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-lstm-dark.gif"><img src="assets/card-lstm-light.gif" width="49%" alt="LSTM Price Forecaster: deep-learning experiment forecasting stock closing prices with Keras and TensorFlow. Code private."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-stockweb-dark.gif"><img src="assets/card-stockweb-light.gif" width="49%" alt="Stock Market Website: NIFTY 50 stock pages, a portfolio tracker and market-analysis lessons in PHP and MySQL. Public repo."></picture>
+</p>
+<p align="center"><sub>🔒 Code kept private, happy to walk through any of them · the Stock Market Website is <a href="https://github.com/Vignesh-Eren/Share-Market-Website">public here</a></sub></p>
 
-## What I work on
+## Tech
 
-- **Systematic research and backtesting.** Backtesting and simulated (paper) trade testing of strategies across US equities, options, futures and futures options.
-- **Real-time market data and dashboards.** Python trading dashboards (Dash, PyQt6) on live US market data, with Redis for fast shared state.
-- **Data and cloud infrastructure.** Cloud databases and Linux environments on Azure, with experience on AWS and GCP.
-- **Machine learning, as a supporting tool.** Classification, clustering and time-series models with scikit-learn, PyTorch and TensorFlow.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" title="scikit-learn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly / Dash" title="Plotly / Dash">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit" title="Streamlit">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" title="Redis">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git">
+</p>
 
 ## Experience
 
-**Quantitative Research Analyst** · Maxrey Tech Limited · Mar 2026 – present · Remote<br>Trading dashboards and analytical tools (Python, PyQt6, Dash, Redis, Azure); backtesting and simulated trade testing of US-market strategies; Azure cloud databases and Linux.
+Trading dashboards, backtesting and real-time market data for US equities, options and futures.
 
-**Quantitative Research Analyst** · Fiedge Capital · Apr 2025 – Feb 2026 · Remote<br>Python trading dashboards on real-time US market data (Charles Schwab API); backtesting frameworks across equities, options, futures and futures options; analytics and performance-reporting tools.
+- **Quant Research Analyst** · Maxrey Tech · 2026 – now
+- **Quant Research Analyst** · Fiedge Capital · 2025 – 2026
+- **Python Developer** (training) · Elysium Group · 2024 – 2025
+- **Business Analyst Intern** · Beleaf Technologies · 2023
 
-**Python Developer (training)** · Elysium Group · Mar 2024 – Apr 2025<br>Flask and Streamlit applications combining ML, encryption, blockchain storage and PySpark processing.
+## Education
 
-**Business Analyst Intern** · Beleaf Technologies · Jun – Nov 2023<br>Planning for blockchain and crypto-trading projects; Power BI and Google Analytics.
-
-## Toolkit
-
-- **Core:** Python · Pandas · NumPy · SQL · Redis · Linux · Git
-- **Dashboards and apps:** Dash · PyQt6 · Streamlit · Flask · FastAPI
-- **Machine learning:** scikit-learn · PyTorch · TensorFlow · Keras · PySpark
-- **Data and cloud:** PostgreSQL · MySQL · MongoDB · SQLite · Azure · AWS (EC2, S3) · GCP
-
-## Public projects
-
-Earlier work from my studies and internship:
-
-- **[Share-Market-Website](https://github.com/Vignesh-Eren/Share-Market-Website)** — a PHP/MySQL stock-market learning site: a page for each NIFTY 50 company, charts, a portfolio tracker (stocks, mutual funds, currencies, commodities) and lessons on fundamental and technical analysis.
-- **[Data-Analytics-Internship](https://github.com/Vignesh-Eren/Data-Analytics-Internship)** — data cleaning and summary statistics in Python notebooks, and a Tata Motors price dashboard in Power BI.
-
-## Education and certifications
-
-- MCA, University of Madras (2021–2023)
-- BSc Information Technology, The American College, Madurai (2018–2021)
-- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/ZXQMJSDZUYR4) — Stanford University / Coursera
-- [Business Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/KEXF2XGSYME6) — University of Pennsylvania / Coursera
+- 🎓 MCA, University of Madras · BSc IT, The American College
+- 📜 [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/ZXQMJSDZUYR4) (Stanford) · [Business Analytics](https://www.coursera.org/account/accomplishments/specialization/KEXF2XGSYME6) (UPenn), Coursera specializations
