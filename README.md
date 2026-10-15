@@ -1,8 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="assets/banner-dark.png">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-light.png">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
-  <img src="assets/banner-light.gif" width="100%" alt="Vignesh N, Quantitative Research Analyst: python, backtesting, market data, dashboards">
+  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="assets/header-dark.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.gif">
+  <img src="assets/header-light.gif" width="100%" alt="Vignesh N, Quantitative Research Analyst: python, backtesting, market data, dashboards">
 </picture>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-turbine-dark.gif"><img src="assets/card-turbine-light.gif" width="49%" alt="Wind Turbine Health: fault detection and remaining-useful-life prediction with CNN, LSTM and SHAP. Code private."></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-tradingbot-dark.gif"><img src="assets/card-tradingbot-light.gif" width="49%" alt="Crypto Trading Bot: automated BTC/ETH strategies on the Binance API, running 24/7 with trade logs. Code private."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-crypto-dark.gif"><img src="assets/card-crypto-light.gif" width="49%" alt="Crypto Trading Bot: automated BTC/ETH strategies on the Binance API, running 24/7 with trade logs. Code private."></picture>
 </p>
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-lstm-dark.gif"><img src="assets/card-lstm-light.gif" width="49%" alt="LSTM Price Forecaster: deep-learning experiment forecasting stock closing prices with Keras and TensorFlow. Code private."></picture>
