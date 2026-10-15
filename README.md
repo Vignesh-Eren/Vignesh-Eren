@@ -1,8 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="assets/header-dark.png">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-light.png">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.gif">
-  <img src="assets/header-light.gif" width="100%" alt="Vignesh N, Quantitative Research Analyst: python, backtesting, market data, dashboards">
+  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="assets/header-dark-46b60bd.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-light-6588557.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark-34b6dc2.gif">
+  <img src="assets/header-light-90f90fa.gif" width="100%" alt="Vignesh N, Quantitative Research Analyst: python, backtesting, market data, dashboards">
 </picture>
 
 <p align="center">
@@ -16,12 +16,12 @@
 ## Projects
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-turbine-dark.gif"><img src="assets/card-turbine-light.gif" width="49%" alt="Wind Turbine Health: fault detection and remaining-useful-life prediction with CNN, LSTM and SHAP. Code private."></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-crypto-dark.gif"><img src="assets/card-crypto-light.gif" width="49%" alt="Crypto Trading Bot: automated BTC/ETH strategies on the Binance API, running 24/7 with trade logs. Code private."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-turbine-dark-9ea2340.gif"><img src="assets/card-turbine-light-0221b40.gif" width="49%" alt="Wind Turbine Health: fault detection and remaining-useful-life prediction with CNN, LSTM and SHAP. Code private."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-crypto-dark-d0c65d2.gif"><img src="assets/card-crypto-light-f51880b.gif" width="49%" alt="Crypto Trading Bot: automated BTC/ETH strategies on the Binance API, running 24/7 with trade logs. Code private."></picture>
 </p>
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-lstm-dark.gif"><img src="assets/card-lstm-light.gif" width="49%" alt="LSTM Price Forecaster: deep-learning experiment forecasting stock closing prices with Keras and TensorFlow. Code private."></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-dashboard-dark.gif"><img src="assets/card-dashboard-light.gif" width="49%" alt="Stock Trading Dashboard: real-time NSE prices, live charts, stock scanners and paper trading, built with Python, WebSocket streaming and Redis. Code private."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-lstm-dark-3232438.gif"><img src="assets/card-lstm-light-e6cc37a.gif" width="49%" alt="LSTM Price Forecaster: deep-learning experiment forecasting stock closing prices with Keras and TensorFlow. Code private."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-dashboard-dark-daf70b6.gif"><img src="assets/card-dashboard-light-3e4c126.gif" width="49%" alt="Stock Trading Dashboard: real-time NSE prices, live charts, stock scanners and paper trading, built with Python, WebSocket streaming and Redis. Code private."></picture>
 </p>
 <p align="center"><sub>🔒 Code kept private. Happy to walk through any of them.</sub></p>
 
